@@ -1,5 +1,8 @@
 # I am going to create a qq plot
 
+# What is happenning here is that i am just entering few details and 
+# this whould reflect in testing branch
+
 # First lets get the variable in one uniform and one normal
  var1 <- runif(30,100,200)
  var2 <- rnorm(30,mean = mean(var1),sd = sd(var1))
