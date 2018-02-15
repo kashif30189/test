@@ -1,7 +1,9 @@
 # I am going to create a qq plot
 
-# this is different from the commit in the testing branch and that this 
-# is made in the master branch
+<<<<<<< HEAD
+# So i have changed everything
+
+>>>>>>> testing
 
 # First lets get the variable in one uniform and one normal
  var1 <- runif(30,100,200)
