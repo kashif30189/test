@@ -1,5 +1,8 @@
 # I am going to create a qq plot
 
+# this is different from the commit in the testing branch and that this 
+# is made in the master branch
+
 # First lets get the variable in one uniform and one normal
  var1 <- runif(30,100,200)
  var2 <- rnorm(30,mean = mean(var1),sd = sd(var1))
