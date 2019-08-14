@@ -1,9 +1,6 @@
 # I am going to create a qq plot
 
-<<<<<<< HEAD
-# So i have changed everything
-
->>>>>>> testing
+# what the hell was i even trying
 
 # First lets get the variable in one uniform and one normal
  var1 <- runif(30,100,200)
