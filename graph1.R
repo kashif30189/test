@@ -3,6 +3,7 @@
 # what the hell was i even trying
 # Here adding another line
 # This is so that we can have two commits ahead
+# This change is being done on the master branch
 
 # First lets get the variable in one uniform and one normal
  var1 <- runif(30,100,200)
