@@ -1,6 +1,7 @@
 # I am going to create a qq plot
 
 # what the hell was i even trying
+# Here adding another line
 
 # First lets get the variable in one uniform and one normal
  var1 <- runif(30,100,200)
