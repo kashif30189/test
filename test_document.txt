@@ -3,3 +3,5 @@ Just added another line
 I have edited it for the merge document
 This is the final thing that i want to write
 what the hell
+So have removed a lot of things from this, prime facia seems that the changes
+considers the whole document
